@@ -1,8 +1,6 @@
 # I'm Chris Blume.
 Pronouns: he/him
 
----
-
 ## 💬 About me
 - Retired
 - Previously Google (Chrome), Twitch (Android app), satellites
